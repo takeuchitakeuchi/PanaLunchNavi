@@ -1,0 +1,52 @@
+{
+  "stores": [
+    {
+      "id": "store001",
+      "name": "適当な店舗名１",
+      "genre": "和食",
+      "price": 1000,
+      "location": "ちょうど良い距離感",
+      "rating": 3.0,
+      "reviews": [
+        {
+          "user": "りん",
+          "rating": 4,
+          "comment": "素晴らしい！",
+          "date": "2025-11-09"
+        },
+        {
+          "user": "りん",
+          "rating": 3,
+          "comment": "素晴らしい！",
+          "date": "2025-11-09"
+        },
+        {
+          "user": "1年目社員",
+          "rating": 2,
+          "comment": "不味かったです！！！！",
+          "date": "2025-11-09"
+        }
+      ],
+      "posted_by": "りん",
+      "posted_date": "2025-11-09"
+    },
+    {
+      "id": "store002",
+      "name": "適当な店舗名２",
+      "genre": "中華",
+      "price": 1100,
+      "location": "ちょうど良い距離",
+      "rating": 1.0,
+      "reviews": [
+        {
+          "user": "りん",
+          "rating": 1,
+          "comment": "不味かったです。",
+          "date": "2025-11-09"
+        }
+      ],
+      "posted_by": "りん",
+      "posted_date": "2025-11-09"
+    }
+  ]
+}
